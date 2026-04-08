@@ -51,4 +51,5 @@ perpustakaan2/
 - Stok otomatis berkurang/bertambah
 - Semua error handling dan validasi sudah ada
 
+**Aplikasi siap production dengan sedikit config DB! 🚀**
 
